@@ -8,5 +8,11 @@
 > **Password:**
 > **Port:**  2220
 ## Solución
+
+```shell
+
+```
+
+**Password encontrado:** 
 ## Notas adicionales
 ## Referencias
